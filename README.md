@@ -1,4 +1,8 @@
-![Next BoilerPlate](https://github.com/LeeadCode/Next.js-BoilerPlate/blob/main/public/img/logo.png)
+
+
+<p align="center">
+  <img src="https://github.com/LeeadCode/Next.js-BoilerPlate/blob/main/public/img/logo.png" alt="Lanterna Verde"/>
+</p>
 
 ## dependencies
 
