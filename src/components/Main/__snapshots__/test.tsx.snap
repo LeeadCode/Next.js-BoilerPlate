@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  background-color: black;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  padding: 3rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.c1 {
+  width: min(30rem,100%);
+  margin-bottom: 2rem;
+}
+
+.c2 {
+  font-size: 2.5rem;
+}
+
+.c3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+<main
+  class="c0"
+>
+  <img
+    alt="Imagem de um Lampião."
+    class="c1"
+    src="/img/logo.png"
+  />
+  <h1
+    class="c2"
+  >
+    Next Boilerplate
+  </h1>
+  <h2
+    class="c3"
+  >
+    Typescript, NextJS e Styled Components
+  </h2>
+</main>
+`;
