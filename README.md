@@ -16,5 +16,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 How to use:
 ```bash
-npm create next-app -e https://github.com/LeeadCode/Next.js-BoilerPlate
+npx create-next-app --example https://github.com/LeeadCode/Next.js-BoilerPlate
 ```
