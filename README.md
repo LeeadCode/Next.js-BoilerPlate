@@ -1,4 +1,4 @@
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+![Next BoilerPlate](https://github.com/LeeadCode/Next.js-BoilerPlate/blob/main/public/img/logo.png)
 
 ## dependencies
 
