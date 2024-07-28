@@ -7,11 +7,11 @@ export default {
   component: Main
 } as Meta
 
-type Story = StoryObj<typeof Main>;
+type Story = StoryObj<typeof Main>
 
 export const Basic: Story = {
   args: {
     title: 'teste',
-    description: 'Button',
-  },
+    description: 'Button'
+  }
 }
