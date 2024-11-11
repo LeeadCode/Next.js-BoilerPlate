@@ -51,7 +51,7 @@
     "jest-environment-jsdom": "^29.7.0",
     "jest-styled-components": "^7.2.0",
     "prettier": "^3.3.3",
-    "storybook": "^8.1.11",
+    "storybook": "^8.4.2",
     "typescript": "^5",
     "typescript-eslint": "^7.16.1"
   }
